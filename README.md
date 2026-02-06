@@ -17,3 +17,5 @@ This is an **ETL (Extract, Transform, Load)** pipeline project developed using *
 * Automated data cleaning process.
 * Handling of tech professional datasets.
 * Scalable pipeline logic.
+
+Developed by [MD IBRAN HUSSAIN]
